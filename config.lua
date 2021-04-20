@@ -5,7 +5,7 @@ Config.ShowDistance = 20.0
 Config.Menu = {
 	Name = 'Jobcenter',
 	Pos = { x = -264.06985473633, y = -966.65649414063, z = 31.224195480347  },
-	String = 'Press ~g~E~s~to access the ~y~job center!',
+	String = 'Press ~g~E~s~ to access the ~y~job center!',
 }
 
 Config.Jobs = {
